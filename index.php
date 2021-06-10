@@ -51,13 +51,14 @@
 <div class="background-2" id="ancre3">
     <h4 class="text-center">Mon CV & mes Coordonnées</h4>
     <div class="cv">
-    <a href="Assets/BERDUCAT_Anaïs_DeveloppeurWebPHP.pdf" class="download" target="_blank"><strong>Télécharger le PDF</strong></a>
+    <a href="Assets/BERDUCAT_Anaïs_DeveloppeurWebPHP.pdf" class="download" target="_blank"><strong>Télécharger le CV</strong></a>
     <i class="fas fa-file-download" style="color:black"></i>
     </div><br>
     <div class="social" id="ancre4">
-    <a href="https://www.linkedin.com/in/ana%C3%AFs-berducat-a77455208/" style="margin-right: 1%;"><i class="fab fa-linkedin" style="color: black;"></i></a>
-    <a href="https://github.com/AnaisBerducat"><i class="fab fa-github" style="color: black;"></i></a>
+    <a href="https://www.linkedin.com/in/ana%C3%AFs-berducat-a77455208/" target="_blank" style="margin-right: 1%;"><i class="fab fa-linkedin" style="color: black;"></i></a>
+    <a href="https://github.com/AnaisBerducat" target="_blank"><i class="fab fa-github" style="color: black;"></i></a>
     </div>
+    <p class="copyright">© Anaïs BERDUCAT 2021 - Tous droits réservés</p>
 </div>
 
 
